@@ -13,6 +13,7 @@
 ##
 <div>
   <a href="https://www.instagram.com/eduardo_mikael1/" target="_blank"><img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" width="30" height="30"></a>
+  <a href="https://wa.me/"85989495988" target="_blank"><img src="https://web.whatsapp.com/img/favicon/1x/favicon.png" alt="WhatsApp" width="30" height="30"></a>
 
 
   
