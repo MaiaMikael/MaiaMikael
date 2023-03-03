@@ -1,16 +1,12 @@
-### Hi there 👋
+###  Chamaaa / Prazer, sou o Mikael Maia !
 
-<!--
-**MaiaMikael/MaiaMikael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on  devweb, apenas para práticas de estudo.
+- 🌱 I’m currently learning html, python, css, java e sistemas em geral.
+- 🤔 I’m looking for help with  programação
+- 💬 Ask me about  mim?  Aberto  
+- 📫 Como chegar até mim:📨eduardomikael11@gmail.com
+- 😄 Redes : @eduardo.mikael1 
+- ⚡ Curiosidade: Estudei 6 semestres de física na UFC , desisti e estou graduando em ADS🤡
+-- My job currently: Assistente Financeiro
+- - - Futuro ? Quero atua na área de Front-end web development
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
