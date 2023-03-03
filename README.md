@@ -5,10 +5,9 @@
 - 🤔 I’m looking for help with  programação
 - 💬 Ask me about  mim?  Aberto  
 - 📫 Como chegar até mim:📨eduardomikael11@gmail.com
-- 😄 Redes : @eduardo.mikael1 
 - ⚡ Curiosidade: Estudei 6 semestres de física na UFC , desisti e estou graduando em ADS🤡
 -- My job currently: Assistente Financeiro
-- - - Futuro ? Quero atua na área de Front-end web  desenvolvendo
+- - - Futuro ? Quero atua na área de Front-end web  desenvolv
 
 ##
 <div>
