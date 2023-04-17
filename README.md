@@ -11,7 +11,7 @@
 
 ##
 <div>
-  <a href="https://www.instagram.com/eduardo_mikael1/" target="_blank"><img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" width="30" height="30"></a>
+  <a href="https://www.instagram.com/mikaelmaiapg/" target="_blank"><img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" width="30" height="30"></a>
   <a href="https://www.linkedin.com/in/mikael-maia-8583591a2/" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/d310t2g24pvdy4pt1jkedo4yb" alt="LinkedIn" width="30" height="30"></a>
 
 
