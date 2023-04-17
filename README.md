@@ -7,7 +7,7 @@
 - 📫 Como chegar até mim:📨eduardomikael11@gmail.com
 - ⚡ Curiosidade: Estudei 6 semestres de física na UFC , desisti e estou graduando em ADS🤡
 -- My job currently: Ass Financeiro
-- - - Futuro ? Quero atua na área de Front-end web  desenvolv
+- - - Futuro ? Quero atua na área de Front-end web.
 
 ##
 <div>
