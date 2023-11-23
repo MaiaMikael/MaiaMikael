@@ -1,13 +1,13 @@
 ###  Chamaaa / Prazer, sou o Mikael Maia !
 
 - 🔭 I’m currently working on  devweb, apenas para práticas de estudo.
-- 🌱 I’m currently learning html, python, css, java e sistemas em geral.
+- 🌱 I’m currently learning html, python, css,banco de dados, sql, java e sistemas em geral.
 - 🤔 I’m looking for help with  programação
 - 💬 Ask me about  mim?  Aberto  
 - 📫 Como chegar até mim:📨eduardomikael11@gmail.com
-- ⚡ Curiosidade: Estudei 6 semestres de física na UFC , desisti e estou graduando em ADS🤡
+- ⚡ Curiosidade: Estudei 6º semestres de física na UFC , desisti e estou graduando em ADS🤡
 -- My job currently: Ass Financeiro
-- - - Futuro ? Quero atua na área de Front-end web e ciências de dados.
+- - - Futuro ? Quero atuar na área  de ciências de dados.
 
 ##
 <div>
