@@ -5,9 +5,9 @@
 - 🤔 I’m looking for help with  programação
 - 💬 Ask me about  mim?  Aberto  
 - 📫 Como chegar até mim:📨eduardomikael11@gmail.com
-- ⚡ Curiosidade: Estudei 6º semestres de física na UFC , desisti e estou graduando em ADS🤡
--- My job currently: Ass Financeiro
-- - - Futuro ? Quero atuar na área  de ciências de dados.
+- ⚡ Curiosidade: Estudei 6º semestres de física na UFC , desisti e estou graduando em ADS(3° semestre)
+-- My job currently: Desempregado 
+- - - Futuro ? Quero atuar na área  de ciências de dados. No momento em busca da minha primeira oportunidade na área da tecnologia.
 
 ##
 <div>
