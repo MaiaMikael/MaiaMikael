@@ -3,7 +3,7 @@
 - 🔭 I am currently unemployed looking for an opportunity in the IT market.
 - 🌱 I’m currently learning html, python, css,banco de dados, sql, java e sistemas em geral.
 - 🤔 Tenho nível avançado com planilhas eletrônicas.
-- 💬 Ask me about  mim?  Aberto  
+- 💬 Ask me about  mim, estou aberto!
 - 📫 Como chegar até mim:📨eduardomikael11@gmail.com
 - ⚡ Curiosidade: Estudei 6º semestres de física na UFC , desisti e estou graduando em ADS(3° semestre)
 -- My job currently: Desempregado 
