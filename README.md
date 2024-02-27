@@ -1,6 +1,6 @@
 ###  Chamaaa / Prazer, sou o Mikael Maia !
 
-- 🔭 I’m currently working on  devweb, apenas para práticas de estudo.
+- 🔭 I am currently unemployed looking for an opportunity in the IT market.
 - 🌱 I’m currently learning html, python, css,banco de dados, sql, java e sistemas em geral.
 - 🤔 I’m looking for help with  programação
 - 💬 Ask me about  mim?  Aberto  
