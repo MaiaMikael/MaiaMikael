@@ -1,4 +1,4 @@
-###  Chamaaa / Prazer, sou o Mikael Maia !
+###  Hello Word, sou Mikael Maia !
 
 - 🔭 Atualmente estou desempregado em busca de uma oportunidade no mercado de TI.
 - 🌱 Atualmente estou focado em estudar html, python, sql, java.
