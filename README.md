@@ -1,6 +1,6 @@
 ###  Olá, sou Mikael Maia !
 
-- 🔭 Atualmente estou desempregado em busca de uma oportunidade no mercado de TI.
+- 🔭 Atualmente trabalho numa empresa como suporte técnico e com desenvolvimento de API.
 - 🌱 Atualmente estou focado em estudar html, python, sql, java.
 - 🤔 Tenho nível avançado com planilhas eletrônicas com excell e power bi.
 - 💬 Estou aberto para propostas!
