@@ -1,13 +1,13 @@
 ###  Olá, sou Mikael Maia !
 
-- 🔭 Atualmente trabalho numa empresa como suporte técnico e com desenvolvimento de API.
+- 🔭 Atualmente a procura de um emprego na área 
 - 🌱 Atualmente estou focado em estudar html, python, sql, java.
 - 🤔 Tenho nível avançado com planilhas eletrônicas com excell e power bi.
 - 💬 Estou aberto para propostas!
 - 📫 Como chegar até mim:📨eduardomikael11@gmail.com
 - ⚡ Curiosidade: Estudei 6º semestres de física na UFC , desisti e agora estou me graduando em ADS(3° semestre)
 --Meu trabalho atualmente: fazendo alguns freelancer pela internet, e uber.
-- - - Futuro ? Quero atuar na área  de ciências de dados. No momento em busca da minha primeira oportunidade na área da tecnologia.
+- - - Futuro ? Ser um grande profissional reconhecido na area.
 
 ##
 <div>
