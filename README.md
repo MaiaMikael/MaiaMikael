@@ -1,7 +1,7 @@
 ###  Olá, sou Mikael Maia !
 
-- 🔭 Atualmente a procura de um emprego na área 
-- 🌱 Atualmente estou focado em estudar html, python, sql, java.
+- 🔭 Atualmente a procura de um emprego na área de TI
+- 🌱 Atualmente estou focado em estudar BD, python, sql, java.
 - 🤔 Tenho nível avançado com planilhas eletrônicas com excell e power bi.
 - 💬 Estou aberto para propostas!
 - 📫 Como chegar até mim:📨eduardomikael11@gmail.com
