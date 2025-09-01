@@ -1,13 +1,13 @@
 ###  Olá, sou Mikael Maia !
 
-- 🔭 Atualmente a procura de um emprego na área de TI
+- 🔭 Atualmente sou desenvolvedor na área de dados 
 - 🌱 Atualmente estou focado em estudar BD, python, sql, java.
 - 🤔 Tenho nível avançado com planilhas eletrônicas com excell e power bi.
 - 💬 Estou aberto para propostas!
 - 📫 Como chegar até mim:📨eduardomikael11@gmail.com
 - ⚡ Curiosidade: Estudei 6º semestres de física na UFC , desisti e agora estou me graduando em ADS(5° semestre- Último)
---Meu trabalho atualmente: fazendo alguns freelancer pela internet como desenvolvimento de planilhas + dashboards utilizando power bi, e uber.
-- - - Futuro ? Ser um grande profissional reconhecido na area.
+--Trabalho atualmente numa multinacional como dev e também presto serviços de frellancer 
+- - - Futuro ? Ser um grande profissional reconhecido 
 
 ##
 <div>
