@@ -1,13 +1,11 @@
 ###  Olá, sou Mikael Maia !
 
-- 🔭 Atualmente sou desenvolvedor na área de dados 
-- 🌱 Atualmente estou focado em estudar BD, python, sql, java.
-- 🤔 Tenho nível avançado com planilhas eletrônicas com excell e power bi.
+- Sou desenvolvedor Full-Stack
 - 💬 Estou aberto para propostas!
 - 📫 Como chegar até mim:📨eduardomikael11@gmail.com
-- ⚡ Curiosidade: Estudei 6º semestres de física na UFC , desisti e agora estou me graduando em ADS(5° semestre- Último)
---Trabalho atualmente numa multinacional como dev e também presto serviços de frellancer 
-- - - Futuro ? Ser um grande profissional reconhecido 
+-Fundei uma empresa esse ano 2026 chamada Nexmaia ( https://nexmaia.com.br/ )
+- Tenho 2 SAAS ativos rodando com clientes reais, um de Gestão e Agendamento para Barbeiros e outro de Fast-Food (Ainda sendo validado).
+- https://www.agendanexvry.com.br/ - 100% validado , 6 clientes ativos usando.
 
 ##
 <div>
