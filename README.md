@@ -21,23 +21,16 @@
 🇧🇷 **Português**
 
 Olá! Sou Mikael Maia, Desenvolvedor Full Stack e fundador da **NexMaia**, onde desenvolvo soluções digitais, sistemas web, plataformas e aplicações voltadas para transformar ideias em negócios.
-
 Estou no Penúltimo período em Análise e Desenvolvimento de Sistemas e tenho interesse em desenvolvimento de software, tecnologia, automação e inovação.
-
 Atualmente, trabalho com desenvolvimento de aplicações web, integração de APIs, bancos de dados e soluções utilizando tecnologias modernas.
-
 Acredito que a tecnologia deve resolver problemas reais e criar oportunidades.
 
 🇺🇸 **English**
 
 Hello! I'm Mikael Maia, a Full Stack Developer and founder of **NexMaia**, where I develop digital solutions, web systems, platforms, and applications aimed at turning ideas into businesses.  
-
 I'm in the second-to-last semester of Systems Analysis and Development and I'm interested in software development, technology, automation, and innovation.  
-
 Currently, I work with web application development, API integration, databases, and solutions using modern technologies.  
-
 I believe technology should solve real problems and create opportunities.
-
 ---
 
 ## 🧠 Tecnologias e ferramentas | Tech Stack
@@ -56,15 +49,11 @@ I believe technology should solve real problems and create opportunities.
 </div>
 
 ---
-
 ## 💻 Projetos em destaque | Featured Projects
-
 ### 🏢 [NexMaia](https://nexmaia.com.br/)
 Minha iniciativa de desenvolvimento de soluções digitais, criação de sites, plataformas web e automações.
-
 ### ✂️ [Agenda Nexvry](https://www.agendanexvry.com.br/)
 Plataforma de agendamento online desenvolvida para barbearias, com foco na gestão de horários e organização dos atendimentos.
-
 ### 💪 [Aura Fit](https://aura-fit-plt.lovable.app/)
 Projeto de plataforma voltada ao universo fitness, com foco no acompanhamento de alunos e organização de informações de treinamento.
 
@@ -73,39 +62,21 @@ Projeto de plataforma voltada ao universo fitness, com foco no acompanhamento de
 ## 📊 Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiaMikael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaMikael&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
 </div>
-
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=MaiaMikael&theme=tokyonight&hide_border=true" />
-
 </div>
-
 ---
-
 ## 📫 Entre em contato | Contact me
-
 <div align="center">
-
 [![Email](https://img.shields.io/badge/Email-nexmaia.web%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexmaia.web@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-mikael-maia-8583591a2/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-Siga--me-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mikaelnexmaia/)
-
 </div>
-
 ---
-
 <div align="center">
-
 ### 💡 "A tecnologia transforma ideias em possibilidades."
-
 **Obrigado pela visita! | Thanks for visiting!** 🚀
-
 </div>
