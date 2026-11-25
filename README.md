@@ -1,11 +1,14 @@
 ###  Olá, sou Mikael Maia !
 
-- Sou desenvolvedor Full-Stack
+- Sou desenvolvedor Full-Stack - Meu Portifólio e site https://nexmaia.com.br/
 - 💬 Estou aberto para propostas!
 - 📫 Como chegar até mim:📨eduardomikael11@gmail.com
--Fundei uma empresa esse ano 2026 chamada Nexmaia ( https://nexmaia.com.br/ )
-- Tenho 2 SAAS ativos rodando com clientes reais, um de Gestão e Agendamento para Barbeiros e outro de Fast-Food (Ainda sendo validado).
-- https://www.agendanexvry.com.br/ - 100% validado , 6 clientes ativos usando.
+- Tenho Alguns Saas rodando atualmente, o mais forte é o da Barbearia agenda nexvry.
+- https://fit.nexmaia.com.br/ - 100% validado , 5 clientes atualmente usando
+-https://nexstyle.nexmaia.com.br/master/login - 100% validado, 7 clientes atualmente usando
+-https://grubixfood.nexmaia.com.br/
+-https://petshop.nexmaia.com.br/
+- https://www.agendanexvry.com.br/ - 100% validado , 12 clientes ativos usando.
 
 ##
 <div>
