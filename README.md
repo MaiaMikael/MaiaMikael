@@ -25,12 +25,6 @@ Estou no Penúltimo período em Análise e Desenvolvimento de Sistemas e tenho i
 Atualmente, trabalho com desenvolvimento de aplicações web, integração de APIs, bancos de dados e soluções utilizando tecnologias modernas.
 Acredito que a tecnologia deve resolver problemas reais e criar oportunidades.
 
-🇺🇸 **English**
-
-Hello! I'm Mikael Maia, a Full Stack Developer and founder of **NexMaia**, where I develop digital solutions, web systems, platforms, and applications aimed at turning ideas into businesses.  
-I'm in the second-to-last semester of Systems Analysis and Development and I'm interested in software development, technology, automation, and innovation.  
-Currently, I work with web application development, API integration, databases, and solutions using modern technologies.  
-I believe technology should solve real problems and create opportunities.
 ---
 
 ## 🧠 Tecnologias e ferramentas | Tech Stack
