@@ -22,7 +22,7 @@
 
 Olá! Sou Mikael Maia, Desenvolvedor Full Stack e fundador da **NexMaia**, onde desenvolvo soluções digitais, sistemas web, plataformas e aplicações voltadas para transformar ideias em negócios.
 
-Sou formado em Análise e Desenvolvimento de Sistemas e tenho interesse em desenvolvimento de software, tecnologia, automação e inovação.
+Estou no Penúltimo período em Análise e Desenvolvimento de Sistemas e tenho interesse em desenvolvimento de software, tecnologia, automação e inovação.
 
 Atualmente, trabalho com desenvolvimento de aplicações web, integração de APIs, bancos de dados e soluções utilizando tecnologias modernas.
 
@@ -30,11 +30,11 @@ Acredito que a tecnologia deve resolver problemas reais e criar oportunidades.
 
 🇺🇸 **English**
 
-Hello! I'm Mikael Maia, a Full Stack Developer and founder of **NexMaia**, where I build digital solutions, web systems, platforms and applications.
+Hello! I'm Mikael Maia, a Full Stack Developer and founder of **NexMaia**, where I develop digital solutions, web systems, platforms, and applications aimed at turning ideas into businesses.  
 
-I have a degree in Systems Analysis and Development and a strong interest in software development, technology, automation and innovation.
+I'm in the second-to-last semester of Systems Analysis and Development and I'm interested in software development, technology, automation, and innovation.  
 
-I'm focused on building web applications, API integrations, database solutions and modern digital products.
+Currently, I work with web application development, API integration, databases, and solutions using modern technologies.  
 
 I believe technology should solve real problems and create opportunities.
 
