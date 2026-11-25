@@ -56,21 +56,31 @@ Projeto de plataforma voltada ao universo fitness, com foco no acompanhamento de
 ## 📊 Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiaMikael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaMikael&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </div>
 <div align="center">
+  
 <img src="https://streak-stats.demolab.com?user=MaiaMikael&theme=tokyonight&hide_border=true" />
+
 </div>
 ---
 ## 📫 Entre em contato | Contact me
 <div align="center">
+  
 [![Email](https://img.shields.io/badge/Email-nexmaia.web%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexmaia.web@gmail.com)
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-mikael-maia-8583591a2/)
+  
 [![Instagram](https://img.shields.io/badge/Instagram-Siga--me-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mikaelnexmaia/)
+  
 </div>
 ---
 <div align="center">
+  
 ### 💡 "A tecnologia transforma ideias em possibilidades."
 **Obrigado pela visita! | Thanks for visiting!** 🚀
 </div>
